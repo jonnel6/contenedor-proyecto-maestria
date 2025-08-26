@@ -6,7 +6,7 @@ const app = express();
 app.use(express.json()); // Para parsear JSON en las solicitudes
 
 // Conexión a MongoDB
-mongoose.connect('mongodb://mongo:27017/mydb', {clea
+mongoose.connect('mongodb://mongo:27017/mydb', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
