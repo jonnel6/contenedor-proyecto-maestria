@@ -30,6 +30,8 @@ La aplicación estará disponible en http://localhost:3000
 
 3. Para la ejecución del CRUD debería usar POSTMAN (se adjunta el coleccionable en la ruta del proyecto en github)
 
+> (DESCARGAR E IMPORTAR EN POSTMAN) ENDPOINTS -PROYECTO-NEWMAN-CONTENEDORES.postman_collection.json
+
 ### 3.1. Crear un nuevo elemento
 ### Método HTTP: POST
 URL: [/Insertar aquí/](http://localhost:3000/api/items)
