@@ -13,8 +13,14 @@ Este proyecto es una aplicación Node.js que se conecta a una base de datos Mong
 
 Primero, clona este repositorio a tu máquina local:
 
+<<<<<<< HEAD
 > git clone https://github.com/jonnel6/contenedor-proyecto-maestria.git
 > cd proyecto-maestria
+=======
+bash
+git clone https://github.com/jonnel6/contenedor-proyecto-maestria.git
+cd proyecto-maestria
+>>>>>>> efc49a8dc7afb6a808f9c5833c200350d239c4a9
 
 Este proyecto incluye un archivo docker-compose.yml que define dos contenedores:
 > node-app: La aplicación Node.js.
@@ -140,4 +146,8 @@ Si la aplicación no puede conectarse a MongoDB, verifica los logs de MongoDB pa
 
 ## Licencia
 
+<<<<<<< HEAD
 EP NEWMAN - Maestrante: DARIO VASQUEZ SILVA
+=======
+EP NEWMAN - Maestrante: DARIO VASQUEZ SILVA
+>>>>>>> efc49a8dc7afb6a808f9c5833c200350d239c4a9
