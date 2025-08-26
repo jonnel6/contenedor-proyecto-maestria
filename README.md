@@ -34,7 +34,7 @@ La aplicación estará disponible en http://localhost:3000
 
 ### 3.1. Crear un nuevo elemento
 ### Método HTTP: POST
-URL: [/Insertar aquí/]([http://localhost:3000/api/items])
+URL: [/Insertar aquí/](http://localhost:3000/api/items)
 Descripción: Crea un nuevo elemento en la base de datos.
 
 Cuerpo de la solicitud (JSON):
