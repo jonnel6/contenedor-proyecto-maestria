@@ -144,3 +144,7 @@ Si la aplicación no puede conectarse a MongoDB, verifica los logs de MongoDB pa
 ## Licencia
 
 EP NEWMAN - Maestrante: DARIO VASQUEZ SILVA
+
+## CARPETA CON LOS LOGS SOLICITADA
+
+Se ubica en la carpeta carpeta_logs en atención a lo solicitado.
